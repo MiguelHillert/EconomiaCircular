@@ -1,4 +1,4 @@
-# 🌍 La Economía Circular
+# 🔄 La Economía Circular
 
 _Un trabajo sobre la Economía Circular_
 
