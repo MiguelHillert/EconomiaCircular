@@ -14,3 +14,6 @@
 
 **El Ecodiseño y las Estrategias Sostenibles**
 
+
+**Glosario**
+- [ChatGPT](https://chatgpt.com/)
