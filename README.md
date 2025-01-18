@@ -17,12 +17,12 @@ _Un trabajo sobre la Economía Circular_
 
 ---
 
-## 📑 Conclusiones [Ver](conclusiones.md)
+## 💡 Conclusiones [Ver](conclusiones.md)
 
 ## 🧷 Mapa conceptual [Ver](mapa_conceptual.md)
 
-## 📘 Glosario [Ver](glosario.md)
+## 📖 Glosario [Ver](glosario.md)
 
-## 📖 Referencias [Ver](referencias.md)
+## 📚 Referencias [Ver](referencias.md)
 
 ## ✍️ Autores [Ver](autores.md)
