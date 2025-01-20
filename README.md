@@ -2,7 +2,7 @@
 
 _Un trabajo sobre la Economía Circular_
 
-<img src="img/economia_circular.jpg" alt="eco_circular" width="600" height="600">
+<img src="img/economia_circular.jpg" alt="eco_circular" width="1200" height="600">
 
 ---
 
