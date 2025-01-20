@@ -4,7 +4,9 @@ El **Análisis del Ciclo de Vida** (ACV) mide el impacto ambiental de un product
 
 La *obsolescencia programada* está diseñada para limitar la vida útil de los productos, la cual fomenta el consumo insostenible y aumenta los residuos.
 
+<div style="text-align: center;">
 <img src="img/ciclo.png" alt="ciclo" width="400" height="400">
+</div>
 
 Este enfoque ayuda a identificar las etapas más críticas para mejorar la sostenibilidad en la producción y el consumo junto con la huella ecológica que es una medida que evalúa el impacto de las actividades humanas sobre los ecosistemas, cuantificando el uso de recursos naturales y la generación de residuos. 
 
