@@ -1,8 +1,8 @@
 ## 🏭 Modelos de Producción Actuales y Consumismo
 
-La UE estipula que "un Modelo de Producción y uso implica la *distribución*, *financiación*, *reutilización*, *reparación*, *devolución* y *reciclaje* de los productos ya existentes. La vida útil de un producto, casi siempre puede ampliarse.
+La UE estipula que un Modelo de Producción implica la *distribución*, *financiación*, *reutilización*, *reparación*, *devolución* y *reciclaje* de productos. La vida útil de un producto, casi siempre puede ampliarse.
 
-Los **Modelos de Producción que tenemos en la actualidad sirven para reducir los costos según las necesidades, podemos diferenciar:
+Los **Modelos de Producción** que tenemos en la actualidad sirven para reducir los costos según las necesidades, podemos diferenciar:
 - *Artesanal*: Se realizan trabajos manualmente dónde la calidad es mayor y es personalizable. EJ: cerámica.
 - *En Masa*: Fabricación a gran escala usando maquinaria con una alta eficiencia. EJ: vehículos.
 - *Por Lotes*: Es el modelo intermedio entre lo artesanal y en masa. EJ: panaderías.
