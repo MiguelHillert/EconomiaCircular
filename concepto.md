@@ -6,6 +6,6 @@ El objetivo es minimizar la generación de residuos y aprovechar los residuos no
 ![circular](img/watergreen-circulo.png)
 
 Para ello, se basa en la **Regla de las 7R**:
-Las siete "R" simbolizan: Redistribuir, Reducir, Reutilizar, Reparar, Regenerar, Recuperar y Rescatar. 
+Las siete "R" simbolizan: **R**ediseñar, **R**educir, **R**eutilizar, **R**eparar, **R**enovar, **R**ecuperar y **R**eciclar. 
 
 Colaborativamente, establecen un programa más integrador para proteger el medio ambiente y, al mismo tiempo, abogar por un ciclo económico regenerativo.
