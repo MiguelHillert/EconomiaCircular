@@ -2,9 +2,8 @@
 
 **Concepto de Economía Circular**
 
-https://planderecuperacion.gob.es/noticias/que-es-la-economia-circular-prtr
-
-https://www.ubu.es/agenda/conferencia-ambiental-presencial-y-online-las-siete-r-basicas-de-la-economia-circular-redisenar-reducir-reutilizar-reparar-renovar-recuperar-y-reciclar-con-luis-marcos#:~:text=Las%20siete%20R%20son%20las,tiempo%2C%20fomentar%20la%20econom%C3%ADa%20circular.
+- [planderecuperacion.gob.es](https://planderecuperacion.gob.es/noticias/que-es-la-economia-circular-prtr)
+- [ubu.es](https://www.ubu.es/agenda/conferencia-ambiental-presencial-y-online-las-siete-r-basicas-de-la-economia-circular-redisenar-reducir-reutilizar-reparar-renovar-recuperar-y-reciclar-con-luis-marcos#:~:text=Las%20siete%20R%20son%20las,tiempo%2C%20fomentar%20la%20econom%C3%ADa%20circular.)
 
 **Modelos de Producción Actuales y Consumismo**
 
