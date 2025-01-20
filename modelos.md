@@ -10,8 +10,8 @@ Los **Modelos de Producción que tenemos en la actualidad sirven para reducir lo
 - *Sostenible*: Utilizan materiales y energñias de manera responsable. Tienen un menor impacto medioambiental y una mejor reputación corporativa. EJ: productos reciclados.
 - *Digital*: La conocida Industria 4.0. Utilizan inteligencia artifical, impresión 3D, etc. para lograr una mayor precisión, flexibilidad y personalización. EJ: la empresa Siemens.
 
-![compras](img/compras.jpg)
-
 El **Consumismo** es el acto de adquirir o acumular bienes y servicios que no siempre son necesarios. 
+
+  ![compras](img/compras.jpg)
 
 En la sociedad moderna, las compras masivas están agotando los recursos naturales y la economía se está volviendo cada vez más **inestable**. Algunas de las alternativas a las cuestiones comerciales son el desarrollo sostenible, el medio ambiente, la pobreza y el consumismo. La publicidad puede aumentar la satisfacción personal y la felicidad que las personas crean a través de las compras.
