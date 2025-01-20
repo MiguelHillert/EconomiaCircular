@@ -1,5 +1,7 @@
 ## 🔄 Concepto de Economía Circular
 
+![circular](img/watergreen-circular.png)
+
 La *Economía Circular* es un modelo que se **centra en optimizar los recursos existentes para que puedan utilizarse el mayor tiempo posible en el proceso productivo**. 
 El objetivo es minimizar la generación de residuos y aprovechar los residuos no reciclables.
 
