@@ -1,15 +1,12 @@
 ## 📚 Referencias
 
 **Concepto de Economía Circular**
-
 - [planderecuperacion.gob.es](https://planderecuperacion.gob.es/noticias/que-es-la-economia-circular-prtr)
 - [ubu.es](https://www.ubu.es/agenda/conferencia-ambiental-presencial-y-online-las-siete-r-basicas-de-la-economia-circular-redisenar-reducir-reutilizar-reparar-renovar-recuperar-y-reciclar-con-luis-marcos#:~:text=Las%20siete%20R%20son%20las,tiempo%2C%20fomentar%20la%20econom%C3%ADa%20circular.)
 
 **Modelos de Producción Actuales y Consumismo**
-
-https://www.bbva.com/es/sostenibilidad/produccion-y-consumo-sostenible-una-nueva-oportunidad-para-el-mundo/
-
-https://es.wikipedia.org/wiki/Consumismo
+- [bbva.com](https://www.bbva.com/es/sostenibilidad/produccion-y-consumo-sostenible-una-nueva-oportunidad-para-el-mundo/)
+- [wikipedia.org](https://es.wikipedia.org/wiki/Consumismo)
 
 **La Economía Verde**
 - [ayudaenaccion.org](https://ayudaenaccion.org/blog/sostenibilidad/economia-verde/)
