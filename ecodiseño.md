@@ -1,6 +1,6 @@
 ## 🌿 El Ecodiseño y las Estrategias Sostenibles
 
-![ecodiseño](img/ecodiseño.png)
+<img src="img/ecodiseño.png" alt="ecodiseño" width="400" height="400">
 
 El **Ecodiseño y las Estrategias Sostenibles** son esenciales en la creación de productos y servicios que respeten el medio ambiente. El ecodiseño se enfoca en reducir el impacto ambiental de los productos a lo largo de todo su ciclo de vida, desde su concepción hasta su desecho, incorporando criterios ambientales en cada fase del diseño. Esta práctica busca no solo minimizar el uso de recursos y la generación de residuos, sino también fomentar la reutilización y el reciclaje, contribuyendo a la economía circular.
 
